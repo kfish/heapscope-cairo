@@ -44,7 +44,8 @@ Executable heapscope
     gtk,
     mtl                       >= 2.0.0.0 && < 3,
     scope                     >= 0.8.0.0 && < 0.9,
-    scope-cairo
+    scope-cairo,
+    heapscope
 
 ------------------------------------------------------------------------
 -- Git repo
